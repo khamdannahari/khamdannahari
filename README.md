@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khamdan Nahari</h1>
 <h3 align="center">A passionate Android Developer from Indonesia</h3>
 
-- 🔭 I’m currently working at [Ruangguru](https://www.ruangguru.com)
+- 🔭 I’m currently working at [XL Axiata](https://www.xlaxiata.co.id/id)
 
 - 🌱 I’m currently learning **Grokking The Coding Interview Patterns**
 
