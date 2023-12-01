@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khamdan Nahari</h1>
 <h3 align="center">A passionate Android Developer from Indonesia</h3>
 
-- 🔭 I’m currently working at [XL Axiata](https://www.xlaxiata.co.id/id)
+- 🔭 I’m currently working at [Smartfren](https://www.smartfren.com/)
 
-- 🌱 I’m currently learning **Grokking The Coding Interview Patterns**
+- 🌱 I’m currently learning **German Language**
 
-- 💬 Ask me about **Android, Time Management, Anything**
+- 💬 Ask me about **Android, Productivity, Anything**
 
 - 📫 How to reach me **khamdannahari.id@gmail.com**
 
