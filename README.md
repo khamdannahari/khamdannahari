@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Smartfren](https://www.smartfren.com/)
 
-- 🌱 I’m currently learning **German Language**
+- 🌱 I’m currently learning **IELTS**
 
 - 💬 Ask me about **Android, Productivity, Anything**
 
